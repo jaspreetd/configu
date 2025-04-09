@@ -24,7 +24,7 @@
     "src"
   ],
   "dependencies": {
-    "@azure/identity": "4.4.1",
+    "@azure/identity": "4.8.0",
     "@azure/keyvault-secrets": "4.8.0",
     "@configu/key-value": "workspace:*",
     "@configu/sdk": "workspace:*"
