@@ -51,7 +51,7 @@
     "get-stdin": "^9.0.0",
     "open": "10.1.0",
     "openid-client": "5.7.1",
-    "tar": "^7.4.3",
+    "tar": "^7.5.4",
     "typanion": "3.14.0"
   },
   "devDependencies": {
